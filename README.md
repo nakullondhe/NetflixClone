@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-TO VIEW THIS PROJECT- http://bit.ly/clone-netflix
+TO VIEW THIS PROJECT- https://netflix-clone-bynakul.web.app/
 
 ## Available Scripts
 
